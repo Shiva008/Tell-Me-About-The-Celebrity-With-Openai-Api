@@ -1,1 +1,1 @@
-openai_key="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"
+openai_key="add your openai api key"
